@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Prototype3HnS.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{9EC59DAC-E7C4-4E3B-BE0D-74E269333BB0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Prototype3HnS.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Prototype3HnSEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{38DDDA75-AE78-4662-B3C7-2DC9254E91C8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Prototype3HnS">
+      <UniqueIdentifier>{1BAC15A4-F3B0-4626-815D-4BDE7FF1C6EF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Prototype3HnS\Prototype3HnS.Build.cs">
+      <Filter>Source\Prototype3HnS</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Prototype3HnS\Prototype3HnS.cpp">
+      <Filter>Source\Prototype3HnS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prototype3HnS\Prototype3HnS.h">
+      <Filter>Source\Prototype3HnS</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prototype3HnS\Prototype3HnSCharacter.cpp">
+      <Filter>Source\Prototype3HnS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prototype3HnS\Prototype3HnSCharacter.h">
+      <Filter>Source\Prototype3HnS</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prototype3HnS\Prototype3HnSGameMode.cpp">
+      <Filter>Source\Prototype3HnS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prototype3HnS\Prototype3HnSGameMode.h">
+      <Filter>Source\Prototype3HnS</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
