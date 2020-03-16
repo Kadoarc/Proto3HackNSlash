@@ -2495,3 +2495,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.16-20.31.23:727][728]LogSlate: Window 'Message Log' being destroyed
 [2020.03.16-20.32.07:383][858]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/Enemies/MeleeEnemy/AIController.
 [2020.03.16-20.32.07:389][858]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/Enemies/MeleeEnemy/AIController.
+[2020.03.16-20.38.48:247][ 56]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/Enemies/MeleeEnemy/EQS_PlayerContext.
+[2020.03.16-20.38.48:255][ 56]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/Enemies/MeleeEnemy/EQS_PlayerContext.
+[2020.03.16-20.38.48:266][ 56]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/Enemies/MeleeEnemy/EnemyAIController.
+[2020.03.16-20.38.48:272][ 56]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/Enemies/MeleeEnemy/EnemyAIController.
