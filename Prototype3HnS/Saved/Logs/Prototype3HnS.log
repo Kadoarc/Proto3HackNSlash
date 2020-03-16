@@ -611,3 +611,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.15-23.47.07:489][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2020.03.15-23.47.07:526][  0]LogRenderer: Reallocating scene render targets to support 1208x556 Format 10 NumSamples 1 (Frame:3).
 [2020.03.15-23.47.07:526][  0]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.15-23.59.45:319][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.03.16-00.00.05:099][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.03.16-00.00.12:281][125]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.16-00.00.12:329][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.16-00.00.12:492][125]LogSavePackage: Moving '../../../../../Users/jeremy.bun8227/Desktop/Proto3HackNSlash/Prototype3HnS/Saved/ThirdPersonExampleMap66639AB34BB1A3A4EA662DA14A900D9D.tmp' to '../../../../../Users/jeremy.bun8227/Desktop/Proto3HackNSlash/Prototype3HnS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.03.16-00.00.12:653][125]LogSavePackage: Moving '../../../../../Users/jeremy.bun8227/Desktop/Proto3HackNSlash/Prototype3HnS/Saved/ThirdPersonExampleMap_BuiltDataD855C2834E0959D2267EB987A0797C3E.tmp' to '../../../../../Users/jeremy.bun8227/Desktop/Proto3HackNSlash/Prototype3HnS/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.03.16-00.00.12:664][125]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.16-00.00.12:664][125]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.03.16-00.00.12:664][125]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
