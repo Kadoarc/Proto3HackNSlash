@@ -1,0 +1,3 @@
+D:\Users\jeremy.bun8227\Desktop\Proto3HackNSlash\Prototype3HnS\Intermediate\Build\Win64\UE4Editor\Development\Prototype3HnS\Definitions.Prototype3HnS.h
+D:\Users\jeremy.bun8227\Desktop\Proto3HackNSlash\Prototype3HnS\Source\Prototype3HnS\ItemDataAsset.h
+D:\Users\jeremy.bun8227\Desktop\Proto3HackNSlash\Prototype3HnS\Intermediate\Build\Win64\UE4Editor\Inc\Prototype3HnS\ItemDataAsset.generated.h
